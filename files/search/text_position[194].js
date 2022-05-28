@@ -1,0 +1,1 @@
+positionForPages[194]={"page":194,"positions":[{"word":"\u656c\u8acb\u671f\u5f85\u7e8c\u96c6","left":0.297992,"top":0.318322,"width":0.402868,"height":0.047703},{"word":"\u770b\u898b\u66f4\u591a\u53ef\u80fd\u6027","left":0.235361,"top":0.407347,"width":0.470911,"height":0.047807}]};
